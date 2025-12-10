@@ -1,4 +1,4 @@
-# MFA Reset (Microsoft Entra ID)
+# MFA Reset 
 
 ## Purpose
 Standard procedure for resetting a user's multi-factor authentication settings when they are locked out or cannot complete MFA. 
