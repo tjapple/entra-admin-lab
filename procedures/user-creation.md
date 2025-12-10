@@ -33,12 +33,16 @@ Add user to admin roles as needed:
 - Finish user creation
 - Click into user profile if anything needs changed in the future
 
+### 6. Enable MFA
+- In the users view, click **Per-user MFA** tab
+- Select the relevant user(s) and click "enable MFA"
+
 ### 6. Validate Account Creation
 Checklist:
 - [ ] User appears in All Users
 - [ ] Group memberships applied
 - [ ] Role assignments (if applicable)
-- [ ] MFA enforced by policy
+- [ ] MFA status is "enabled"
 
 ---
 
