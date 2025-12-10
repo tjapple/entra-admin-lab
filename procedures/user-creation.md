@@ -1,4 +1,4 @@
-# User Creation (Entra ID)
+# User Creation
 
 ## Purpose
 Standard procedure for creating a new user identity in Microsoft Entra ID. This process mirrors MSP-level onboarding workflows for cloud-only environments.
